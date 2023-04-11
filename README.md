@@ -4,4 +4,4 @@
 
 ![WRRC](./Lab%207.png)
 
-[Deployed]()
+[Deployed](https://bearer-auth-cfoq.onrender.com)
